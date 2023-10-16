@@ -1,3 +1,7 @@
-const ctrl = require("./contacts");
+// const ctrl = require("./contacts");
+// // const signup = require("./auth");
 
-module.exports = ctrl;
+// module.exports = {
+//   ctrl,
+// //   signup,
+// };
