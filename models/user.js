@@ -31,6 +31,10 @@ const userSchema = new Schema(
       enum: statusList,
       default: "starter",
     },
+    avatarURL: {
+      type: String,
+      required: true,
+    },
   },
   { versionKey: false, timestamps: true }
 );
